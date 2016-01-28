@@ -1,0 +1,12 @@
+{
+    "main": "content/index.html",
+    "name": "example",
+    "window":
+    {
+    	"toolbar": true,
+        "width": 1333,
+        "height": 768,
+        "resizable": false,
+        "position": "center"
+    }
+}
